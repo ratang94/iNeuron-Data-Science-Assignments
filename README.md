@@ -6,7 +6,7 @@ This repository contains solutions of iNeuron Full Stack Data Science Dashboard 
 
 
 
-**Current Status**: Done in Total **90 Assignments**. Any feedback on improvement in code or answers is welcome and much appreciated. Thanks in Advance
+**Current Status**: Done in Total **93 Assignments**. Any feedback on improvement in code or answers is welcome and much appreciated. Thanks in Advance
 
 
 
